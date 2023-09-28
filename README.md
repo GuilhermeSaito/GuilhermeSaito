@@ -17,6 +17,3 @@ Acredito firmemente que o poder dos dados está em sua capacidade de criar valor
   <a href = "mailto:guilhermetoshiosaito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-toshio-saito-347439180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-Sinta-se à vontade para personalizar este README de acordo com suas informações e preferências. É uma ótima maneira de apresentar a si mesmo e suas habilidades no GitHub.
