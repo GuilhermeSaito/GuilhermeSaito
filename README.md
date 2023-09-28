@@ -5,7 +5,7 @@ Acredito firmemente que o poder dos dados está em sua capacidade de criar valor
 
 <br/> 🧑‍💻 Atualmente estou estagiando no <a href = "https://mppr.mp.br/"><img target="_blank">Ministério Público do Estado do Paraná</a>.
 <br/> 📖 Estou estudando a área de algoritmos para implementação em IA.
-<br/> 📷 🪭 Gosto de viajar para conhecer novos locais e novas comidas/culturas além de também gostar muito de ficar em casa ou em algum local calmo para ler mangás.
+<br/> 📷 Gosto de viajar para conhecer novos locais e novas comidas/culturas além de também gostar muito de ficar em casa ou em algum local calmo para ler mangás.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSaito&theme=dracula&show_icons=true)
 
@@ -27,15 +27,17 @@ Acredito firmemente que o poder dos dados está em sua capacidade de criar valor
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter)&nbsp;
 
-![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat&logo=SQLServer)&nbsp;
 ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=MinIO)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat&logo=SQLServer)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-2f1a47?style=flat&logo=MySQL)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite)&nbsp;
 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku)&nbsp;
-![GoogleCloud](https://img.shields.io/badge/-G#4285F4-2f1a47?style=flat&logo=GoogleCloud)&nbsp;
+![Google%20Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud)&nbsp;
+![Pentaho](https://img.shields.io/badge/-Pentaho-0078D4?style=flat&logo=Pentaho)&nbsp;
 ![AmazonEC2](https://img.shields.io/badge/-AmazonEC2-FF9900?style=flat&logo=AmazonEC2)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Azure)&nbsp;
 ![Mulesoft](https://img.shields.io/badge/-Mulesoft-00A0DF?style=flat&logo=Mulesoft)&nbsp;
@@ -45,6 +47,7 @@ Acredito firmemente que o poder dos dados está em sua capacidade de criar valor
 ![GitHub](https://img.shields.io/badge/-GitHub-2f1a47?style=flat&logo=GitHub)&nbsp;
 
 ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=Visual%20Studio%20Code)&nbsp;
+![Visual%20Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio)&nbsp;
 ![Sublime%20Text](https://img.shields.io/badge/-Sublime%20Text-2f1a47?style=flat&logo=Sublime%20Text)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=Postman)&nbsp;
 
