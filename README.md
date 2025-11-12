@@ -3,7 +3,7 @@
 Sou um entusiasta de dados e atualmente estagiário na área de engenharia de dados. Tenho paixão pela área de Big Data e Analytics, onde busco continuamente expandir meu conhecimento e habilidades. Minha experiência anterior inclui trabalho nas áreas de CRM com salesforce, Analytics e Integração, bem como Engenharia de Dados.
 Acredito firmemente que o poder dos dados está em sua capacidade de criar valor real e tomar decisões fundamentadas. Sempre estou ansioso para aprender novas tecnologias e aplicá-las de forma criativa para gerar insights e soluções significativas.
 
-<br/> 🧑‍💻 Atualmente estou estagiando na <a href = "https://www.ibm.com/br-pt/"><img target="_blank">IBM</a>.
+<br/> 🧑‍💻 Atualmente sou engenheiro de dados na <a href = "https://www.ibm.com/br-pt/"><img target="_blank">IBM</a>.
 <br/> 📖 Estou estudando a área de algoritmos para implementação em IA.
 <br/> 📷 Gosto de viajar para conhecer novos locais e novas comidas/culturas além de também gostar muito de ficar em casa ou em algum local calmo para ler mangás.
 
